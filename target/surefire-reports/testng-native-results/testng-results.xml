@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-02T17:24:26 KST" name="Surefire suite" finished-at="2024-07-02T17:24:26 KST" duration-ms="37">
+  <suite started-at="2024-07-02T17:54:42 KST" name="Surefire suite" finished-at="2024-07-02T17:54:42 KST" duration-ms="37">
     <groups>
       <group name="RegressionTest">
         <method signature="TestAdditionFunctionality.TestSubtractionWithPositiveNumbers()[pri:1, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" name="TestSubtractionWithPositiveNumbers" class="Pranodayd.CalculatorAPI.TestAdditionFunctionality"/>
@@ -10,57 +10,57 @@
         <method signature="TestSubtractionFunctionality.TestSubtractionWithPositiveNumbers()[pri:1, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" name="TestSubtractionWithPositiveNumbers" class="Pranodayd.CalculatorAPI.TestSubtractionFunctionality"/>
       </group> <!-- RegressionTest -->
     </groups>
-    <test started-at="2024-07-02T17:24:26 KST" name="Surefire test" finished-at="2024-07-02T17:24:26 KST" duration-ms="37">
+    <test started-at="2024-07-02T17:54:42 KST" name="Surefire test" finished-at="2024-07-02T17:54:42 KST" duration-ms="37">
       <class name="Pranodayd.CalculatorAPI.TestAdditionFunctionality">
-        <test-method is-config="true" signature="Init()[pri:0, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" started-at="2024-07-02T17:24:26 KST" name="Init" finished-at="2024-07-02T17:24:26 KST" duration-ms="7" status="PASS">
+        <test-method is-config="true" signature="Init()[pri:0, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" started-at="2024-07-02T17:54:42 KST" name="Init" finished-at="2024-07-02T17:54:42 KST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Init -->
-        <test-method is-config="true" signature="ReInitialise()[pri:0, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" started-at="2024-07-02T17:24:26 KST" name="ReInitialise" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="ReInitialise()[pri:0, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" started-at="2024-07-02T17:54:42 KST" name="ReInitialise" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReInitialise -->
-        <test-method signature="TestSubtractionWithPositiveNumbers()[pri:1, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" started-at="2024-07-02T17:24:26 KST" name="TestSubtractionWithPositiveNumbers" finished-at="2024-07-02T17:24:26 KST" duration-ms="2" status="PASS">
+        <test-method signature="TestSubtractionWithPositiveNumbers()[pri:1, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" started-at="2024-07-02T17:54:42 KST" name="TestSubtractionWithPositiveNumbers" finished-at="2024-07-02T17:54:42 KST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSubtractionWithPositiveNumbers -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" started-at="2024-07-02T17:24:26 KST" name="Teardown" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Pranodayd.CalculatorAPI.TestAdditionFunctionality@4148db48]" started-at="2024-07-02T17:54:42 KST" name="Teardown" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
       </class> <!-- Pranodayd.CalculatorAPI.TestAdditionFunctionality -->
       <class name="Pranodayd.CalculatorAPI.TestMultiplicationFunctionality">
-        <test-method is-config="true" signature="Init()[pri:0, instance:Pranodayd.CalculatorAPI.TestMultiplicationFunctionality@11e21d0e]" started-at="2024-07-02T17:24:26 KST" name="Init" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="Init()[pri:0, instance:Pranodayd.CalculatorAPI.TestMultiplicationFunctionality@11e21d0e]" started-at="2024-07-02T17:54:42 KST" name="Init" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Init -->
-        <test-method signature="TestSubtractionWithPositiveNumbers()[pri:1, instance:Pranodayd.CalculatorAPI.TestMultiplicationFunctionality@11e21d0e]" started-at="2024-07-02T17:24:26 KST" name="TestSubtractionWithPositiveNumbers" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestSubtractionWithPositiveNumbers -->
-        <test-method is-config="true" signature="ReInitialise()[pri:0, instance:Pranodayd.CalculatorAPI.TestMultiplicationFunctionality@11e21d0e]" started-at="2024-07-02T17:24:26 KST" name="ReInitialise" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="ReInitialise()[pri:0, instance:Pranodayd.CalculatorAPI.TestMultiplicationFunctionality@11e21d0e]" started-at="2024-07-02T17:54:42 KST" name="ReInitialise" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReInitialise -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:Pranodayd.CalculatorAPI.TestMultiplicationFunctionality@11e21d0e]" started-at="2024-07-02T17:24:26 KST" name="Teardown" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method signature="TestSubtractionWithPositiveNumbers()[pri:1, instance:Pranodayd.CalculatorAPI.TestMultiplicationFunctionality@11e21d0e]" started-at="2024-07-02T17:54:42 KST" name="TestSubtractionWithPositiveNumbers" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSubtractionWithPositiveNumbers -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Pranodayd.CalculatorAPI.TestMultiplicationFunctionality@11e21d0e]" started-at="2024-07-02T17:54:42 KST" name="Teardown" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
       </class> <!-- Pranodayd.CalculatorAPI.TestMultiplicationFunctionality -->
       <class name="Pranodayd.CalculatorAPI.TestSubtractionFunctionality">
-        <test-method is-config="true" signature="Init()[pri:0, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" started-at="2024-07-02T17:24:26 KST" name="Init" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="Init()[pri:0, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" started-at="2024-07-02T17:54:42 KST" name="Init" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Init -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" started-at="2024-07-02T17:24:26 KST" name="Teardown" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" started-at="2024-07-02T17:54:42 KST" name="Teardown" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
-        <test-method is-config="true" signature="ReInitialise()[pri:0, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" started-at="2024-07-02T17:24:26 KST" name="ReInitialise" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="ReInitialise()[pri:0, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" started-at="2024-07-02T17:54:42 KST" name="ReInitialise" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReInitialise -->
-        <test-method signature="TestSubtractionWithPositiveNumbers()[pri:1, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" started-at="2024-07-02T17:24:26 KST" name="TestSubtractionWithPositiveNumbers" finished-at="2024-07-02T17:24:26 KST" duration-ms="0" status="PASS">
+        <test-method signature="TestSubtractionWithPositiveNumbers()[pri:1, instance:Pranodayd.CalculatorAPI.TestSubtractionFunctionality@1dd02175]" started-at="2024-07-02T17:54:42 KST" name="TestSubtractionWithPositiveNumbers" finished-at="2024-07-02T17:54:42 KST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSubtractionWithPositiveNumbers -->
