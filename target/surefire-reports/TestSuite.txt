@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.434 s <<< FAILURE! - in TestSuite
+TestSubtractionWithPositiveNumbers(Pranodayd.CalculatorAPI.TestSubtractionFunctionality)  Time elapsed: 0.008 s  <<< FAILURE!
+java.lang.AssertionError: Subtraction does not work with 1 Positive and 1 Negative Numbers expected [60] but found [40]
+	at Pranodayd.CalculatorAPI.TestSubtractionFunctionality.TestSubtractionWithPositiveNumbers(TestSubtractionFunctionality.java:25)
+
