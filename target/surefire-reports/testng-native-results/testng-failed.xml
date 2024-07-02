@@ -3,14 +3,6 @@
 <suite thread-count="1" name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="1" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="Pranodayd.CalculatorAPI.TestSubtractionFunctionality">
-        <methods>
-          <include name="Teardown"/>
-          <include name="ReInitialise"/>
-          <include name="Init"/>
-          <include name="TestSubtractionWithPositiveNumbers"/>
-        </methods>
-      </class> <!-- Pranodayd.CalculatorAPI.TestSubtractionFunctionality -->
       <class name="Pranodayd.CalculatorAPI.TestMultiplicationFunctionality">
         <methods>
           <include name="init"/>
