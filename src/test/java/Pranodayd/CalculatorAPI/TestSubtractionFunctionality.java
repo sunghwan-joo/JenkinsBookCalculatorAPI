@@ -22,7 +22,7 @@ public class TestSubtractionFunctionality {
 	@Test(priority=1, groups= {"RegressionTest"})
 	public void TestSubtractionWithPositiveNumbers() {
 		Result = Cal.Subtraction(50, 10);
-		Assert.assertEquals(Result, 60, "Subtraction does not work with 1 Positive and 1 Negative Numbers");
+		Assert.assertEquals(Result, 40, "Subtraction does not work with 1 Positive and 1 Negative Numbers");
 	}
 	
 	@AfterClass
